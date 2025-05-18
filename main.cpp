@@ -15,6 +15,10 @@ void bubblesort(){
     cout <<"hello i am a bubble sort ";
 }
 
+void mergesort(){
+    cout<<"hello i am merger sort ";
+}
+
 int main(){
 
     ios_base::sync_with_stdio(0);srand(time(0));
