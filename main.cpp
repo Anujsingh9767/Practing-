@@ -22,6 +22,9 @@ void mergesort(){
 void insertionSort(){
     cout<<"hello i am an insertion sort ";
 }
+void havefunc(){
+    
+}
 
 int main(){
 
