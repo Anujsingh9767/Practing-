@@ -19,6 +19,10 @@ void mergesort(){
     cout<<"hello i am merger sort ";
 }
 
+void insertionSort(){
+    cout<<"hello i am an insertion sort ";
+}
+
 int main(){
 
     ios_base::sync_with_stdio(0);srand(time(0));
