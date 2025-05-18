@@ -7,6 +7,10 @@ using state = pair<lli,lli>;
 # define Mp make_pair
 # define INF 1e9 
 
+void quickSort(){
+
+}
+
 int main(){
 
     ios_base::sync_with_stdio(0);srand(time(0));
