@@ -11,6 +11,10 @@ void quickSort(){
     cout<<"hello i am a quicksort ";
 }
 
+void bubblesort(){
+    cout <<"hello i am a bubble sort ";
+}
+
 int main(){
 
     ios_base::sync_with_stdio(0);srand(time(0));
