@@ -8,7 +8,7 @@ using state = pair<lli,lli>;
 # define INF 1e9 
 
 void quickSort(){
-    cout<<"hello how are you "
+    cout<<"hello how are you ";
 }
 
 int main(){
